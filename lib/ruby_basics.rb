@@ -25,7 +25,3 @@ end
 def pizza_party(ingredient = "cheese")
   "#{ingredient}"
 end
-
-def pizza_party(ingredient = "cheese")
-  "pepperoni"
-end
